@@ -1,0 +1,7 @@
+export const LOGIN = "USER:LOGIN";
+export const LOGIN_SUCCESS = "USER:LOGIN_SUCCESS";
+export const LOGIN_ERROR = "USER:LOGIN_ERROR";
+export const SET_USER = "USER:SET_USER";
+export const REMOVE_USER = "USER:REMOVE_USER";
+export const SET_INVALID_LOGIN = "USER:SET_INVALID_LOGIN";
+
